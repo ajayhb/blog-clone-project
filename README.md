@@ -1,5 +1,5 @@
 # blog-clone-project
-It's a full stack website that has been built using HTML, CSS, Javascript (Medium API),Django and SQLite3.
+It's a full stack website that has been built using HTML, CSS, Javascript (Medium API), Django and SQLite3.
 Built it in lower environment for now. Django Version is 2.1 (since I do have both Class based views and functional views in my views.py)
 "mysite" is the project name and the blog inside the folder "mysite" is the application name.
 So to run the command in a lower environment (using django 2.1): type:                                                                python manage.py runserver (make sure to be inside "mysite" directory)
